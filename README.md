@@ -30,7 +30,7 @@ Diving into Rockbuster Stealth's, data to answer key business queries for their 
 - Visualizations in Tableau Public.
 - A narrative story combining data insights with business strategies.
 
-**Visualizations**: Check out the [Tableau Public dashboard]([https://public.tableau.com/app/profile/isom.winton/vizzes](https://endalkachew-tedla.github.io/Endalkachew-Tedla-Portfolio/projects/rockbuster/tableau.html)) for interactive insights.  
+**Visualizations**: Check out the [Tableau Public dashboard](https://endalkachew-tedla.github.io/Endalkachew-Tedla-Portfolio/projects/rockbuster/tableau.html) for interactive insights.  
 
 **Final Project PDF**: Find a detailed report in the [Final Project PDF](https://github.com/isom17/InstaCartAnalysis/files/14471297/Exercise.3.10_RockBuster.Stealth.llc._Isom.Winton.1.pdf).
 
